@@ -1,0 +1,13 @@
+# Temporary uploads and results
+jobs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
