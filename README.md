@@ -5,6 +5,15 @@ Karaage is a simple, local web app that turns your favourite songs into karaoke 
 
 No account needed. Your computer does the processing.
 
+📸 Preview
+
+Upload a song
+![Description of image](images/upload-screen.png)
+
+
+Your tracks, ready to play
+![Description of image](images/results-screen.png)
+
 ## ✨ What can it do?
 
 - 🎤 **Make karaoke tracks** — remove the vocals to create an instrumental.
